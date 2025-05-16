@@ -37,7 +37,8 @@ Se utilizó los campos numéricos para que la visualización con sns.pairplot, s
 ### 1.	Clustering con K-Means: 
 
 <img width="277" alt="image" src="https://github.com/user-attachments/assets/5ec6c386-631e-417d-aad4-769898a547e2" />
-***
+
+
 <img width="270" alt="image" src="https://github.com/user-attachments/assets/d4757e12-c374-4118-b5ce-c9cab2122a36" />
 
 El Cluster 2, tiene valores promedio de Product ID y Cluster ID mucho más bajos. Podría representar productos de otra categoría o segmento completamente diferente.
@@ -48,12 +49,14 @@ Las diferencias en Category ID y Cluster ID también reflejan cómo se agrupan p
 
 <img width="277" alt="image" src="https://github.com/user-attachments/assets/62a4b530-deff-4503-bb57-72098d216f1d" />
 
+
 <img width="267" alt="image" src="https://github.com/user-attachments/assets/d1a260af-9790-4b12-8cdb-7b8b93e9572f" />
 
 
 ### 3.	Reducción de dimensionalidad con PCA:
 
 <img width="275" alt="image" src="https://github.com/user-attachments/assets/9d2de615-c3d3-4420-b302-2b1dac2993c2" />
+
 
 <img width="276" alt="image" src="https://github.com/user-attachments/assets/f7d1f00c-b12c-4420-9c0c-7ccce07db38f" />
 

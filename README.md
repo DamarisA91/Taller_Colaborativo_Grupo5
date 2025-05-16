@@ -37,7 +37,7 @@ Se utilizó los campos numéricos para que la visualización con sns.pairplot, s
 ### 1.	Clustering con K-Means: 
 
 <img width="277" alt="image" src="https://github.com/user-attachments/assets/5ec6c386-631e-417d-aad4-769898a547e2" />
-
+***
 <img width="270" alt="image" src="https://github.com/user-attachments/assets/d4757e12-c374-4118-b5ce-c9cab2122a36" />
 
 El Cluster 2, tiene valores promedio de Product ID y Cluster ID mucho más bajos. Podría representar productos de otra categoría o segmento completamente diferente.
